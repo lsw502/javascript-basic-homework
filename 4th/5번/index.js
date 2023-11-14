@@ -8,7 +8,7 @@ const getProducts = async () => {
 // 여기에 2번 문제의 답을 작성하세요.
 
 
-const getProducts = async () => {
+const getProductsAdd = async () => {
 
     const settings = {
         method: 'POST',
